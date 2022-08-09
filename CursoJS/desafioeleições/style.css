@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: linear-gradient(to right, #038C33, #e6c003);
+}
+
+h2#principal {
+    color: white;
+    text-align: center;
+}
+
+h2#bolsonaro {
+    color: rgb(6, 141, 6);
+}
+
+h2#lula {
+    color: red;
+}
+
+h2#simone {
+    color: #e6c003;
+}
+
+img {
+    width: 400px;
+    border-radius: 15px
+}
+
+main {
+    background-color: white;
+    border-radius: 15px;
+    width: 600px;
+    padding: 0.2cm;
+    margin: auto;
+    text-align: center;
+}    

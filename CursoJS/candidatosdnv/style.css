@@ -1,0 +1,62 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}    
+
+.principal {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+body {
+    background-image: linear-gradient(to right, #038C33, #e6c003);
+}
+
+img {
+    width: 350px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 2px;
+    color: azure;
+    font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caixa {
+    background-color: white;
+    width: 375px;
+    padding: 19px;
+    border-radius: 15px;
+}
+
+.h2lula:hover {
+    color: red;
+}
+.h2bolso:hover {
+    color: rgb(3, 155, 3);
+}
+.h2tiri:hover {
+    color: #e6c003
+}
+
+.botao {
+    background-color: rgb(0, 218, 218);
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4px;
+}
+.botao:hover {
+    background-color: black;
+    color: white;
+}
